@@ -1,13 +1,12 @@
 #!/bin/bash
-# Minecraft Server Installation Script - James A. Chambers - https://jamesachambers.com
 #
 # Instructions: https://jamesachambers.com/minecraft-bedrock-edition-ubuntu-dedicated-server-guide/
 # Resource Pack Guide: https://jamesachambers.com/minecraft-bedrock-server-resource-pack-guide/
 #
 # To run the setup script use:
-# curl https://raw.githubusercontent.com/TheRemote/MinecraftBedrockServer/master/SetupMinecraft.sh | bash
+# curl https://github.com/amjadhalim/MinecraftBedrockServer/blob/master/SetupMinecraft.sh | bash
 #
-# GitHub Repository: https://github.com/TheRemote/MinecraftBedrockServer
+# GitHub Repository: https://github.com/amjadhalim/MinecraftBedrockServer
 
 echo "Minecraft Bedrock Server installation script by James A. Chambers"
 echo "Latest version always at https://github.com/TheRemote/MinecraftBedrockServer"

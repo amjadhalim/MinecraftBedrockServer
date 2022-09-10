@@ -1,6 +1,4 @@
 #!/bin/bash
-# Author: James Chambers - https://jamesachambers.com/minecraft-bedrock-edition-ubuntu-dedicated-server-guide/
-# Minecraft Bedrock server startup script using screen
 
 # Set path variable
 USERPATH="pathvariable"

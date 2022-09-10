@@ -1,6 +1,4 @@
 #!/bin/bash
-# James Chambers - https://jamesachambers.com/minecraft-bedrock-edition-ubuntu-dedicated-server-guide/
-# Minecraft Server update script - runs online SetupMinecraft.sh
 
 # Set path variable
 USERPATH="pathvariable"
@@ -17,4 +15,4 @@ if [ $(id -u) = 0 ]; then
    exit 1
 fi
 
-curl https://raw.githubusercontent.com/TheRemote/MinecraftBedrockServer/master/SetupMinecraft.sh | bash
+curl https://github.com/amjadhalim/MinecraftBedrockServer/blob/master/SetupMinecraft.sh | bash
