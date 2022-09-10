@@ -5,7 +5,6 @@
 # curl https://github.com/amjadhalim/MinecraftBedrockServer/blob/master/SetupMinecraft.sh | bash
 #
 # GitHub Repository: https://github.com/amjadhalim/MinecraftBedrockServer
-
 # Randomizer for user agent
 RandNum=$(echo $((1 + $RANDOM % 5000)))
 
